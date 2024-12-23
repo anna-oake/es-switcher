@@ -3,10 +3,10 @@
 // @include     https://*.easyship.com/*
 // @run-at      document-start
 // @grant       none
-// @version     2.0
+// @version     2.1
 // @updateURL   https://raw.githubusercontent.com/anna-oake/es-switcher/refs/heads/main/es-switcher.user.js
 // @downloadURL https://raw.githubusercontent.com/anna-oake/es-switcher/refs/heads/main/es-switcher.user.js
-// @description Automatically switch EasyShip sessions based on the requested URL
+// @description Automatically switch EasyShip sessions based on the requested URL or user choice
 // @noframes
 // @inject-into page
 // ==/UserScript==
